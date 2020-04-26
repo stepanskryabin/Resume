@@ -1,7 +1,7 @@
 
 # Степан Скрябин #
 
-##### 8 (951) 355-96-99 | <stepan.skrjabin@gmail.com> | [Linkedin](www.linkedin.com/in/stepan-skryabin) | Кирово-Чепецк, Россия #####
+##### 8 (951) 355-96-99 | <stepan.skrjabin@gmail.com> | [Linkedin](https://www.linkedin.com/in/stepan-skryabin) | Кирово-Чепецк, Россия #####
 
 ### Python-разработчик, Тестировщик ###
 
