@@ -1,6 +1,6 @@
-<html>
-<body>
-<h4>Степан Скрябин</h4>
+
+Степан Скрябин
+==============
 <h4>Кирово-Чепецк, Россия</h4>
 
 <h4>8 (951) 355-96-99 | stepan.skrjabin@gmail.com | linkedin.com/in/stepan-skryabin</h4>
