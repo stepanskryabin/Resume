@@ -1,2 +1,4 @@
-Hello World!
-Hello
+---
+layout: post
+title: Blogging Like a Hacker
+---
