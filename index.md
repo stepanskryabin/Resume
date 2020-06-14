@@ -22,11 +22,9 @@
     Используемые технологии:
     - Python
     - Django
-    - Vue.js
-    - JavaScript
+    - Flask
+    - SQLObject
     - Tkinter
-    - Sqlite
-    - PostgreSQL
 
     Исходный код выложен на [GitHub](https://www.github.com/stepanskryabin)
 
