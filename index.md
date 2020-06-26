@@ -14,20 +14,23 @@
 
 *2020 - по настоящее время*
 
-    Три собственных проекта:
-    - бот для Telegram (деплой на Heroku)
-    - конвертер изображений (GUI на Tkinter)
-    - простой web-блог
+OpenSorce проект [MoreliaTalk](https://github.com/MoreliaTalk)
 
-    Используемые технологии:
-    - Python
-    - Django
-    - Flask
-    - SQLObject
-    - Tkinter
+    - мессенджер с клиент-серверной архитектурой
+    - Сервер (Flask, SQLAlchemy)
+    - Клиенты (pyQt5, JavaScript, Tkinter)
 
-    Исходный код выложен на [GitHub](https://www.github.com/stepanskryabin)
+Два собственных проекта:
 
+Бот для Telegram [StepTelegramBoot](https://github.com/stepanskryabin/steptelegrambot)
+
+    - python, pyTelegramBotAPI, SQLObject
+    - деплой на Heroku
+
+Конвертер изображений [BenderPDF](https://github.com/stepanskryabin/BenderPDF)
+
+    - python, PIL, PyPDF2
+    - GUI на Tkinter
 
 ### Инженер-теплотехник ###
 
@@ -36,7 +39,6 @@
 *2019 - по настоящее время*
 
     Обслуживание приборов учёта тепловой энергии и холодной воды. Организация поверки. Анализ показаний.
-
 
 ### Тестирование ###
 
@@ -64,7 +66,6 @@
     - внедрил системы фиксирования заявок населения через Help Desk системы, внедрил систему CRM Bitrix24.
     - сети предприятия (ethernet, SIP), администрировал сайт компании
     - обеспечил получение гранта на 300 тыс. руб.
-
 
 ### Слесарь по КИПиА ОАО ЭМСЗ "Вэлконт" и МУП "Коммунальное хозяйство" ###
 
