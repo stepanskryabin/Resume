@@ -5,12 +5,12 @@
 
 ### Python-разработчик, Тестировщик ###
 
-##### опыт работы в тестировании < 1 года, опыт работы Python-разработчиком < 1 года #####
+##### опыт работы Python-разработчиком = 1 год, опыт работы в тестировании < 1 года  #####
 -----------------------------------------------------------------------------------------------------------------
 
 ## Навыки | Кратко ##
 
-Backend develop in Python, SQLite, PostgreSQL, Git, unittest, pytest, pydantic, Google Cloud, Linux, bash, jira, Confluence.
+Backend develop in Python, SQLite, PostgreSQL, Git, GitHub, unittest, pydantic, Google Cloud, Linux, bash, jira, Confluence.
 
 **Английский – Pre-Intermediate**
 
@@ -24,13 +24,17 @@ OpenSource проект [MoreliaTalk](https://github.com/MoreliaTalk) мессе
 
     - разработка протокола взаимодействия сервера с клиентами (собственный протокол на основе JSON:API)
     - реализация протокола в коде сервера, а так же написание других функций сервера
-    - стек сервера FastAPI, SQLObject, PostgreSQL
+    - стек сервера FastAPI, SQLObject, PostgreSQL, pydantic
     - организация деплоя на Google Cloud
     - написание автотестов используя unittest
     - организация совместной работы группы разработчиков в GitHub
     - ввёл обязательный код-ревью другими участниками
 
-Два собственных проекта:
+Собственные проекты:
+Приложение для парсинга сайта dnevnik.ru и вывода информации о школьном расписании [parsing-dnevnik-ru](https://github.com/stepanskryabin/parsing-dnevnik-ru)
+
+    - python, Flask, SQLObject
+
 
 Бот для Telegram [StepTelegramBoot](https://github.com/stepanskryabin/steptelegrambot)
 
@@ -49,9 +53,9 @@ OpenSource проект [MoreliaTalk](https://github.com/MoreliaTalk) мессе
 *2021 - по настоящее время*
 
     Обслуживание и ремонт компьютерных сетей и оборудования.
-    Развёртывание Windows Server, OS Windows и Ubuntu на клиентских компьютерах.
+    Развёртывание Windows Server, OS Windows и *nix (Ubuntu, Linux Mint, Runtu) на клиентских компьютерах.
     Написание небольших приложений на Python для обслуживания инфраструктуры:
-    - парсинг и вывод на онлайн киоск расписания для учащихся
+    - парсинг dnevnik.ru и вывод на онлайн киоск школьного расписания
 
 ### Инженер-теплотехник ###
 
@@ -140,9 +144,9 @@ OpenSource проект [MoreliaTalk](https://github.com/MoreliaTalk) мессе
 ### Профессиоанльные навыки ###
 
     - Backend-разработка на Python
+    - навыки организации работы 
     - работа с базами данных (SQLite, PostgreSQL)
     - работа с системой контроля версий Git
-    - Самостоятельный поиск информации
     - Знание Linux - bash, файловая структура, пакетные менеджеры, настройка служб
     - Проектирование тестов и основы тест-дизайна
     - Анализ требований и тестирование документации, терминология в тестировании
@@ -162,5 +166,4 @@ OpenSource проект [MoreliaTalk](https://github.com/MoreliaTalk) мессе
 ## Дополнительно ##
 
     * Agile/Scrum, жизненные циклы ПО
-    * Начальные знания apache maven
     * Начальные знание Golang, Docker
