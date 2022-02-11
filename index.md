@@ -165,5 +165,5 @@ OpenSource проект [MoreliaTalk](https://github.com/MoreliaTalk) мессе
 
 ## Дополнительно ##
 
-    * Agile/Scrum, жизненные циклы ПО
-    * Начальные знание Golang, Docker
+    - Agile/Scrum, жизненные циклы ПО
+    - Начальные знание Golang, Docker
