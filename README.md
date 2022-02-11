@@ -18,7 +18,7 @@ Backend development in Python, SQLite, PostgreSQL, Git, GitHub, unittest, pydant
 
 #### Freelance developer ###
 
-##2020 to the present ##
+## 2020 to the present ##
 
 OpenSource project [MoreliaTalk](https://github.com/MoreliaTalk) messenger with client-server architecture in Python. The project is being developed in collaboration with several like-minded people, my tasks include:
 
@@ -50,7 +50,7 @@ Image Converter [BenderPDF](https://github.com/stepanskryabin/BenderPDF)
 
 #### KOGOAU "Gymnasium №1 in Kirovo-Chepetsk" ###
 
-##2021 - to the present time
+## 2021 - to the present time
 
 Gymnasium №1 [Github](https://github.com/Gymnasium-1).
 
@@ -69,9 +69,9 @@ Gymnasium №1 [Github](https://github.com/Gymnasium-1).
 
 ### Testing ###
 
-### Beginner Testing School**.
+### Beginner Testing School ###
 
-*July 2019 - August 2019
+*July 2019 - August 2019*
 
 Tester _(learning project)_: [Discogs](https://www.discogs.com)
 
@@ -85,11 +85,11 @@ Tester _(learning project)_: [Discogs](https://www.discogs.com)
 
 -----------------------------------------------------------------------------------------------------------------
 
-### Previous job
+### Previous job ###
 
 ### Head of LLC UO "Sodeistvie", LLC UK "Uyutny Dom", Head of LLC "Domservis" ###
 
-### 2013 - 2019, Kirovo-Chepetsk, Russia
+*2013 - 2019, Kirovo-Chepetsk, Russia*
 
     - organized the activities of the management company
     - drafted financial development plan, prepared annual reports for clients, held meetings of owners
@@ -101,7 +101,7 @@ Tester _(learning project)_: [Discogs](https://www.discogs.com)
 
 #### Locksmith on the instrumentation of JSC EMCZ "Velkont" and MUP "Communal Services" ####
 
-### 2009 - 2013 Kirovo-Chepetsk, Russia
+*2009 - 2013 Kirovo-Chepetsk, Russia*
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -111,13 +111,13 @@ Tester _(learning project)_: [Discogs](https://www.discogs.com)
 
     Coursera
 
-## School for novice testers, 2019**
+## School for novice testers, 2019 ##
 
     Moscow
 
 [School of testers](http://testbase.ru/learn/beginner)
 
-[Certificate](/certificate.pdf)
+[Certificate](https://github.com/stepanskryabin/Resume/blob/master/certificate.pdf)
 
 **Electrical Machines and Automatics, 2011-2013**
 
@@ -127,7 +127,7 @@ Tester _(learning project)_: [Discogs](https://www.discogs.com)
 
     KCHITT - Kirovo-Chepetsk, Russia
 
-##Advanced education
+## Advanced education ##
 
 **Organization of production and entrepreneurship**
 
@@ -135,11 +135,11 @@ Tester _(learning project)_: [Discogs](https://www.discogs.com)
 
 **Management**
 
-Kirov Institute for Retraining and Professional Development of Agricultural Personnel - Kirov, Russia 2013* **Management
+*Kirov Institute for Retraining and Professional Development of Agricultural Personnel - Kirov, Russia 2013*
 
 **Checking and calibration of measuring instruments**
 
-*FATRIM State Educational Institution of Advanced Training "Academy of Standardization, Metrology and Certification" - St. Petersburg, Russia 2009* **Calibration of measuring instruments
+*FATRIM State Educational Institution of Advanced Training "Academy of Standardization, Metrology and Certification" - St. Petersburg, Russia 2009*
 
 ### Skills ###
 
@@ -167,5 +167,5 @@ Kirov Institute for Retraining and Professional Development of Agricultural Pers
 
 ## Extras ##
 
-    * Agile/Scrum, software life cycles
-    * Basic knowledge of Golang, Docker
+    - Agile/Scrum, software life cycles
+    - Basic knowledge of Golang, Docker
