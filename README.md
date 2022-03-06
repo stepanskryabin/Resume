@@ -1,12 +1,11 @@
-
 # Stepan Skryabin
 
 ##### 8 (951) 355-96-99 :: <stepan.skrjabin@gmail.com> :: [Linkedin](https://www.linkedin.com/in/stepan-skryabin) :: Kirovo-Chepetsk, Russia #####
 
 ### Python Developer, Tester ###
 
-##### Python-developer experience = 1 year, testing experience < 1 year #####
------------------------------------------------------------------------------------------------------------------
+#### Python-developer experience = 1 year, testing experience < 1 year ####
+
 
 ## Skills | Briefly
 
@@ -16,9 +15,9 @@ Backend development in Python, SQLite, PostgreSQL, Git, GitHub, unittest, pydant
 
 ## Work experience ##
 
-#### Freelance developer ###
+### Freelance developer ###
 
-## 2020 to the present ##
+### 2020 to the present ###
 
 OpenSource project [MoreliaTalk](https://github.com/MoreliaTalk) messenger with client-server architecture in Python. The project is being developed in collaboration with several like-minded people, my tasks include:
 
@@ -46,11 +45,11 @@ Image Converter [BenderPDF](https://github.com/stepanskryabin/BenderPDF)
     - python, PIL, PyPDF2
     - GUI in Tkinter
 
-### Software engineer ###
+## Software engineer ##
 
-#### KOGOAU "Gymnasium №1 in Kirovo-Chepetsk" ###
+### KOGOAU "Gymnasium №1 in Kirovo-Chepetsk" ###
 
-## 2021 - to the present time
+### 2021 - to the present time ###
 
 Gymnasium №1 [Github](https://github.com/Gymnasium-1).
 
@@ -59,19 +58,19 @@ Gymnasium №1 [Github](https://github.com/Gymnasium-1).
     Writing small Python applications for infrastructure maintenance:
     - parsing dnevnik.ru and displaying school schedules on the online kiosk
 
-### Heat engineer ###
+## Heat engineer ##
 
-#### UK Chepetskaya LLC ###
+### UK Chepetskaya LLC ##
 
-*2019 - 2021*
+### 2019 - 2021 ###
 
     Maintenance of heat and cold water meters. Organization of verification. Analysis of readings.
 
-### Testing ###
+## Testing ##
 
 ### Beginner Testing School ###
 
-*July 2019 - August 2019*
+### July 2019 - August 2019 ###
 
 Tester _(learning project)_: [Discogs](https://www.discogs.com)
 
@@ -85,11 +84,11 @@ Tester _(learning project)_: [Discogs](https://www.discogs.com)
 
 -----------------------------------------------------------------------------------------------------------------
 
-### Previous job ###
+## Previous job ##
 
 ### Head of LLC UO "Sodeistvie", LLC UK "Uyutny Dom", Head of LLC "Domservis" ###
 
-*2013 - 2019, Kirovo-Chepetsk, Russia*
+### 2013 - 2019, Kirovo-Chepetsk, Russia ###
 
     - organized the activities of the management company
     - drafted financial development plan, prepared annual reports for clients, held meetings of owners
@@ -99,9 +98,9 @@ Tester _(learning project)_: [Discogs](https://www.discogs.com)
     - company networks (ethernet, SIP), administered the company web site
     - secured a grant of 300 thousand rubles.
 
-#### Locksmith on the instrumentation of JSC EMCZ "Velkont" and MUP "Communal Services" ####
+### Locksmith on the instrumentation of JSC EMCZ "Velkont" and MUP "Communal Services" ###
 
-*2009 - 2013 Kirovo-Chepetsk, Russia*
+### 2009 - 2013 Kirovo-Chepetsk, Russia ###
 
 -----------------------------------------------------------------------------------------------------------------
 
