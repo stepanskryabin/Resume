@@ -1,169 +1,192 @@
+# Stepan Skriabin
 
-# Степан Скрябин #
+##### 8 (951) 355-96-99 :: <stepan.skrjabin@gmail.com> :: [Linkedin](https://www.linkedin.com/in/stepan-skryabin) :: Kirovo-Chepetsk, Russia #####
 
-##### 8 (951) 355-96-99 :: <stepan.skrjabin@gmail.com> :: [Linkedin](https://www.linkedin.com/in/stepan-skryabin) :: Кирово-Чепецк, Россия #####
+### Python Developer, Tester ###
 
-### Python-разработчик, Тестировщик ###
+#### Python-developer experience > 1 year, testing experience < 1 year ####
 
-##### опыт работы Python-разработчиком = 1 год, опыт работы в тестировании < 1 года  #####
+
+## Skills | Briefly
+
+Backend development in Python, SQLite, Git, GitHub, unittest, pydantic, flask, docker,
+Google Cloud, Linux, bash, jira, Confluence.
+
+**English - Pre-Intermediate**
+
+## Work experience ##
+
+### Freelance developer ###
+
+### may 2022 to the present ###
+
+[IMLIGHT Electronics](https://www.imlight.ru/)
+
+Work on a project to create a lighting control system (analog of Paradigm Software from 
+[ETC connect](https://www.etcconnect.com/)).
+My tasks included the development of one element (server) which was engaged in the processing and distribution 
+of the control parameters of the connected equipment (consoles, buttons, lighting):
+
+- stack: Python 3.9 and paho.MQTT
+- optimization of work on low-power equipment 800Mhz/512Mb
+- Full development cycle, from beginning to end
+- building application architecture
+- testing
+
+### 2020 to the present ###
+
+OpenSource project [MoreliaTalk](https://github.com/MoreliaTalk) messenger with client-server architecture in Python 
+(server) and Dart/Flutte (client).
+The project is being developed in collaboration with several like-minded people, my tasks include:
+
+- development of a protocol for server-client interaction (own protocol based on JSON:API)
+- implementation of the protocol in the server code, as well as writing other server functions
+- server stack FastAPI, SQLObject, PostgreSQL, pydantic
+- deploying to Google Cloud
+- writing autotests using unittest
+- organizing a group of developers to work together on GitHub
+- introduced a mandatory code review by other contributors
+- development Android/iOS app on Dart/Flutter
+
+Own projects:
+
+Application for parsing dnevnik.ru and displaying information about school schedule
+[parsing-dnevnik-ru](https://github.com/stepanskryabin/parsing-dnevnik-ru)
+
+- python, Flask, SQLite, Selenium
+
+
+Telegram bot [StepTelegramBoot](https://github.com/stepanskryabin/steptelegrambot)
+
+- python, pyTelegramBotAPI, SQLObject
+- Deploy to Heroku
+
+Image Converter [BenderPDF](https://github.com/stepanskryabin/BenderPDF)
+
+- python, PIL, PyPDF2
+- GUI in Tkinter
+
+## Software engineer ##
+
+### KOGOAU "Gymnasium №1 in Kirovo-Chepetsk" ###
+
+### 2021 - 2022 ###
+
+Gymnasium №1 [Github](https://github.com/Gymnasium-1).
+
+Maintenance and repair of computer networks and equipment. Deployment of Windows Server, Windows OS and *nix 
+(Ubuntu, Linux Mint, Runtu) on client computers. Writing small Python applications for infrastructure maintenance:
+
+- parsing dnevnik.ru and displaying school schedules on the online kiosk [parsing-dnevnik-ru](https://github.com/stepanskryabin/parsing-dnevnik-ru)
+
+## Heat engineer ##
+
+### UK Chepetskaya LLC ##
+
+### 2019 - 2021 ###
+
+Maintenance of heat and cold water meters. Organization of verification. Analysis of readings.
+
+## Testing ##
+
+### Beginner Testing School ###
+
+### July 2019 - August 2019 ###
+
+Tester _(learning project)_: [Discogs](https://www.discogs.com)
+
+The learning project consisted of: 
+- writing test cases, test plans, and checklists;
+- creating bug reports in the Mantis and Redmine systems;
+- creating mind-maps and diagrams of states and transitions;
+- creating use cases;
+- documentation testing and regression testing;
+- non-functional testing.
+
 -----------------------------------------------------------------------------------------------------------------
 
-## Навыки | Кратко ##
+## Previous job ##
 
-Backend develop in Python, SQLite, PostgreSQL, Git, GitHub, unittest, pydantic, Google Cloud, Linux, bash, jira, Confluence.
+### Head of LLC UO "Sodeistvie", LLC UK "Uyutny Dom", Head of LLC "Domservis" ###
 
-**Английский – Pre-Intermediate**
+### 2013 - 2019, Kirovo-Chepetsk, Russia ###
 
-## Опыт работы ##
+    - organized the activities of the management company
+    - drafted financial development plan, prepared annual reports for clients, held meetings of owners
+    - managed the maintenance of utilities of residential facilities
+    - implemented the bar-coding system of bills and receipts
+    - implemented the system of recording requests from the population via Help Desk system.
+    - company networks (ethernet, SIP), administered the company web site
+    - secured a grant of 300 thousand rubles.
 
-### Фрилансер - разработчик ###
+### Locksmith on the instrumentation of JSC EMCZ "Velkont" and MUP "Communal Services" ###
 
-*2020 - по настоящее время*
-
-OpenSource проект [MoreliaTalk](https://github.com/MoreliaTalk) мессенджер с клиент-серверной архитектурой на Python. Проект разрабатывается совместно с несколькими единомышленниками, в мои задачи входит:
-
-    - разработка протокола взаимодействия сервера с клиентами (собственный протокол на основе JSON:API)
-    - реализация протокола в коде сервера, а так же написание других функций сервера
-    - стек сервера FastAPI, SQLObject, PostgreSQL, pydantic
-    - организация деплоя на Google Cloud
-    - написание автотестов используя unittest
-    - организация совместной работы группы разработчиков в GitHub
-    - ввёл обязательный код-ревью другими участниками
-
-Собственные проекты:
-Приложение для парсинга сайта dnevnik.ru и вывода информации о школьном расписании [parsing-dnevnik-ru](https://github.com/stepanskryabin/parsing-dnevnik-ru)
-
-    - python, Flask, SQLObject
-
-
-Бот для Telegram [StepTelegramBoot](https://github.com/stepanskryabin/steptelegrambot)
-
-    - python, pyTelegramBotAPI, SQLObject
-    - деплой на Heroku
-
-Конвертер изображений [BenderPDF](https://github.com/stepanskryabin/BenderPDF)
-
-    - python, PIL, PyPDF2
-    - GUI на Tkinter
-
-### Инженер-программист ###
-
-**КОГОАУ "Гимназия №1 г. Кирово-Чепецка"**
-
-*2021 - по настоящее время*
-
-    Обслуживание и ремонт компьютерных сетей и оборудования.
-    Развёртывание Windows Server, OS Windows и *nix (Ubuntu, Linux Mint, Runtu) на клиентских компьютерах.
-    Написание небольших приложений на Python для обслуживания инфраструктуры:
-    - парсинг dnevnik.ru и вывод на онлайн киоск школьного расписания
-
-### Инженер-теплотехник ###
-
-**ООО "УК "Чепецкая"**
-
-*2019 - 2021*
-
-    Обслуживание приборов учёта тепловой энергии и холодной воды. Организация поверки. Анализ показаний.
-
-### Тестирование ###
-
-**Школа начинающих тестировщиков**
-
-*Июль 2019 – Август 2019*
-
-Тестировщик _(учебный проект)_: [Discogs](https://www.discogs.com)
-
-    Учебный проект состоял из: 
-    - составления тест-кейсов, тест-планов и чек-листов;
-    - создание баг-репортов в системах Mantis и Redmine;
-    - создание mind-карт и схем состояний и переходов;
-    - создание сценариев использования;
-    - тестирование документации и регрессионное тестирование;
-    - нефункциональное тестирование.
+### 2009 - 2013 Kirovo-Chepetsk, Russia ###
 
 -----------------------------------------------------------------------------------------------------------------
 
-## Предыдущая работа ##
+## Education ##
 
-### Руководитель ООО УО "Содействие", ООО УК "Уютный дом", Руководитель ООО "Домсервис" ###
-
-*2013 – 2019, Кирово-Чепецк, Россия*
-
-    - организовывал деятельность управляющей компании
-    - составлял финансовый план развития, готовил годовую отчётность для клиентов, проводил собрания собственников
-    - организовывал работу по обслуживанию инженерных коммуникаций жилых объектов
-    - внедрил систему штрих-кодирования в счёт-квитанции
-    - внедрил системы фиксирования заявок населения через Help Desk систему.
-    - сети предприятия (ethernet, SIP), администрировал сайт компании
-    - обеспечил получение гранта на 300 тыс. руб.
-
-### Слесарь по КИПиА ОАО ЭМСЗ "Вэлконт" и МУП "Коммунальное хозяйство" ###
-
-*2009 - 2013 Кирово-Чепецк, Россия*
-
------------------------------------------------------------------------------------------------------------------
-
-## Образование ##
-
-**Курс программирования на python, 2020**
+**Python Programming Course, 2020**
 
     Coursera
 
-**Школа начинающих тестировщиков, 2019**
+## School for novice testers, 2019 ##
 
-    Москва
+    Moscow
 
-[Школа тестировщиков](http://testbase.ru/learn/beginner)
+[School of testers](http://testbase.ru/learn/beginner)
 
-[Сертификат](/certificate.pdf)
+[Certificate](https://github.com/stepanskryabin/Resume/blob/master/certificate.pdf)
 
-**Электрические машины и автоматы, 2011-2013**
+**Electrical Machines and Automatics, 2011-2013**
 
-    ВятГУ – Киров, Россия
+    Vyatka State University - Kirov, Russia
 
-**Автоматизация технологических процессов и производств, 2005-2008**
+**Automation of Technological Processes and Productions, 2005-2008**
 
-    КЧИТТ – Кирово-Чепецк, Россия
+    KCHITT - Kirovo-Chepetsk, Russia
 
-## Дополнительное образование ##
+## Advanced education ##
 
-**Организация производства и предпринимательства**
+**Organization of production and entrepreneurship**
 
-*КОГАОУДПО "Кирово-Чепецкий учебный центр управления государственной службы занятости населения Кировской области"– Кирово-Чепецк, Россия, 2014*
+*Kirovo-Chepetsk Training Center of the State Employment Service Administration of Kirov region - Kirovo-Chepetsk, Russia, 2014*
 
-**Менеджмент**
+**Management**
 
-*ФГБОУДПОС "Кировский институт переподготовки и повышения квалификации кадров агропромышленного комплекса"– Киров, Россия 2013*
+*Kirov Institute for Retraining and Professional Development of Agricultural Personnel - Kirov, Russia 2013*
 
-**Поверка и калибровка средств измерений**
+**Checking and calibration of measuring instruments**
 
-*ФАТРИМ ГОУ ДПО "Академия стандартизации, метрологии и сертификации"– Санкт-Петербург, Россия 2009*
+*FATRIM State Educational Institution of Advanced Training "Academy of Standardization, Metrology and Certification" - St. Petersburg, Russia 2009*
 
-## Навыки ##
+### Skills ###
 
-### Профессиоанльные навыки ###
+### Professional skills ###
 
-    - Backend-разработка на Python
-    - навыки организации работы коллектива
-    - работа с базами данных (SQLite, PostgreSQL)
-    - работа с системой контроля версий Git
-    - Знание Linux - bash, файловая структура, пакетные менеджеры, настройка служб
-    - Проектирование тестов и основы тест-дизайна
-    - Анализ требований и тестирование документации, терминология в тестировании
-    - Оформление багов в баг-трекинговой системе (jira, mantis, redmine, bugzilla)
-    - Оформление документации в Confluence
-    - Опыт работы с инструментами тест-менеджмента TestLink, TestRail, Sitechco
-    - Основы веб-разработки CSS/HTML, установка/ настройка Wordpress.
-    - Знание Windows - настройка служб, настройка прав доступа пользователей,
-    - Настройка сетевых устройств роутеры, sip-телефоны.
+- backend development in Python
+- teambuilding skills
+- working with databases (SQLite)
+- working with Git
+- linux bash, file structure, batch managers, service configuration
+- requirements analysis and testing documentation, testing terminology
+- bug tracking system (jira, mantis, redmine, bugzilla)
+- documenting in Confluence
+- basic web development CSS/HTML, installation/settings of Wordpress.
+- knowledge of Windows - configuring services, setting up user access rights,
+- setting up network devices routers, sip-phones.
+- test design and basics of test design
+- experience of working with TestLink, TestRail, Sitechco test management tools
 
-## Иностранные языки ##
+## Foreign languages
 
-**Английский – Pre-Intermediate**
+**English - Pre-Intermediate**.
 
-    Переписка на английском языке, а также чтение технической литературы - со словарем.
+    Correspondence in English, and reading technical literature - with dictionary.
 
-## Дополнительно ##
+## Extras ##
 
-    - Agile/Scrum, жизненные циклы ПО
-    - Начальные знание Golang, Docker
+- Hobbies Photography
+- Writing articles for telegram channel https://t.me/kodNaplakal
+- Basic knowledge of Dart/Flutter, Docker
