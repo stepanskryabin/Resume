@@ -1,15 +1,16 @@
-# Stepan Skryabin
+# Stepan Skriabin
 
 ##### 8 (951) 355-96-99 :: <stepan.skrjabin@gmail.com> :: [Linkedin](https://www.linkedin.com/in/stepan-skryabin) :: Kirovo-Chepetsk, Russia #####
 
 ### Python Developer, Tester ###
 
-#### Python-developer experience = 1 year, testing experience < 1 year ####
+#### Python-developer experience > 1 year, testing experience < 1 year ####
 
 
 ## Skills | Briefly
 
-Backend development in Python, SQLite, PostgreSQL, Git, GitHub, unittest, pydantic, Google Cloud, Linux, bash, jira, Confluence.
+Backend development in Python, SQLite, Git, GitHub, unittest, pydantic, flask, docker,
+Google Cloud, Linux, bash, jira, Confluence.
 
 **English - Pre-Intermediate**
 
@@ -17,46 +18,66 @@ Backend development in Python, SQLite, PostgreSQL, Git, GitHub, unittest, pydant
 
 ### Freelance developer ###
 
+### may 2022 to the present ###
+
+[IMLIGHT Electronics](https://www.imlight.ru/)
+
+Work on a project to create a lighting control system (analog of Paradigm Software from 
+[ETC connect](https://www.etcconnect.com/)).
+My tasks included the development of one element (server) which was engaged in the processing and distribution 
+of the control parameters of the connected equipment (consoles, buttons, lighting):
+
+- stack: Python 3.9 and paho.MQTT
+- optimization of work on low-power equipment 800Mhz/512Mb
+- Full development cycle, from beginning to end
+- building application architecture
+- testing
+
 ### 2020 to the present ###
 
-OpenSource project [MoreliaTalk](https://github.com/MoreliaTalk) messenger with client-server architecture in Python. The project is being developed in collaboration with several like-minded people, my tasks include:
+OpenSource project [MoreliaTalk](https://github.com/MoreliaTalk) messenger with client-server architecture in Python 
+(server) and Dart/Flutte (client).
+The project is being developed in collaboration with several like-minded people, my tasks include:
 
-    - development of a protocol for server-client interaction (own protocol based on JSON:API)
-    - implementation of the protocol in the server code, as well as writing other server functions
-    - server stack FastAPI, SQLObject, PostgreSQL, pydantic
-    - deploying to Google Cloud
-    - writing autotests using unittest
-    - organizing a group of developers to work together on GitHub
-    - introduced a mandatory code review by other contributors
+- development of a protocol for server-client interaction (own protocol based on JSON:API)
+- implementation of the protocol in the server code, as well as writing other server functions
+- server stack FastAPI, SQLObject, PostgreSQL, pydantic
+- deploying to Google Cloud
+- writing autotests using unittest
+- organizing a group of developers to work together on GitHub
+- introduced a mandatory code review by other contributors
+- development Android/iOS app on Dart/Flutter
 
 Own projects:
-Application for parsing dnevnik.ru and displaying information about school schedule [parsing-dnevnik-ru](https://github.com/stepanskryabin/parsing-dnevnik-ru)
 
-    - python, Flask, SQLObject
+Application for parsing dnevnik.ru and displaying information about school schedule
+[parsing-dnevnik-ru](https://github.com/stepanskryabin/parsing-dnevnik-ru)
+
+- python, Flask, SQLite, Selenium
 
 
 Telegram bot [StepTelegramBoot](https://github.com/stepanskryabin/steptelegrambot)
 
-    - python, pyTelegramBotAPI, SQLObject
-    - Deploy to Heroku
+- python, pyTelegramBotAPI, SQLObject
+- Deploy to Heroku
 
 Image Converter [BenderPDF](https://github.com/stepanskryabin/BenderPDF)
 
-    - python, PIL, PyPDF2
-    - GUI in Tkinter
+- python, PIL, PyPDF2
+- GUI in Tkinter
 
 ## Software engineer ##
 
 ### KOGOAU "Gymnasium №1 in Kirovo-Chepetsk" ###
 
-### 2021 - to the present time ###
+### 2021 - 2022 ###
 
 Gymnasium №1 [Github](https://github.com/Gymnasium-1).
 
-    Maintenance and repair of computer networks and equipment.
-    Deployment of Windows Server, Windows OS and *nix (Ubuntu, Linux Mint, Runtu) on client computers.
-    Writing small Python applications for infrastructure maintenance:
-    - parsing dnevnik.ru and displaying school schedules on the online kiosk
+Maintenance and repair of computer networks and equipment. Deployment of Windows Server, Windows OS and *nix 
+(Ubuntu, Linux Mint, Runtu) on client computers. Writing small Python applications for infrastructure maintenance:
+
+- parsing dnevnik.ru and displaying school schedules on the online kiosk [parsing-dnevnik-ru](https://github.com/stepanskryabin/parsing-dnevnik-ru)
 
 ## Heat engineer ##
 
@@ -64,7 +85,7 @@ Gymnasium №1 [Github](https://github.com/Gymnasium-1).
 
 ### 2019 - 2021 ###
 
-    Maintenance of heat and cold water meters. Organization of verification. Analysis of readings.
+Maintenance of heat and cold water meters. Organization of verification. Analysis of readings.
 
 ## Testing ##
 
@@ -74,13 +95,13 @@ Gymnasium №1 [Github](https://github.com/Gymnasium-1).
 
 Tester _(learning project)_: [Discogs](https://www.discogs.com)
 
-    The learning project consisted of: 
-    - writing test cases, test plans, and checklists;
-    - creating bug reports in the Mantis and Redmine systems;
-    - creating mind-maps and diagrams of states and transitions;
-    - creating use cases;
-    - documentation testing and regression testing;
-    - non-functional testing.
+The learning project consisted of: 
+- writing test cases, test plans, and checklists;
+- creating bug reports in the Mantis and Redmine systems;
+- creating mind-maps and diagrams of states and transitions;
+- creating use cases;
+- documentation testing and regression testing;
+- non-functional testing.
 
 -----------------------------------------------------------------------------------------------------------------
 
@@ -144,19 +165,19 @@ Tester _(learning project)_: [Discogs](https://www.discogs.com)
 
 ### Professional skills ###
 
-    - backend development in Python
-    - teambuilding skills
-    - working with databases (SQLite, PostgreSQL)
-    - working with Git
-    - linux bash, file structure, batch managers, service configuration
-    - test design and basics of test design
-    - requirements analysis and testing documentation, testing terminology
-    - bug tracking system (jira, mantis, redmine, bugzilla)
-    - documenting in Confluence
-    - experience of working with TestLink, TestRail, Sitechco test management tools
-    - basic web development CSS/HTML, installation/settings of Wordpress.
-    - knowledge of Windows - configuring services, setting up user access rights,
-    - setting up network devices routers, sip-phones.
+- backend development in Python
+- teambuilding skills
+- working with databases (SQLite)
+- working with Git
+- linux bash, file structure, batch managers, service configuration
+- requirements analysis and testing documentation, testing terminology
+- bug tracking system (jira, mantis, redmine, bugzilla)
+- documenting in Confluence
+- basic web development CSS/HTML, installation/settings of Wordpress.
+- knowledge of Windows - configuring services, setting up user access rights,
+- setting up network devices routers, sip-phones.
+- test design and basics of test design
+- experience of working with TestLink, TestRail, Sitechco test management tools
 
 ## Foreign languages
 
@@ -166,5 +187,6 @@ Tester _(learning project)_: [Discogs](https://www.discogs.com)
 
 ## Extras ##
 
-    - Agile/Scrum, software life cycles
-    - Basic knowledge of Golang, Docker
+- Hobbies Photography
+- Writing articles for telegram channel https://t.me/kodNaplakal
+- Basic knowledge of Dart/Flutter, Docker
