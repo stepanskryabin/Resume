@@ -6,10 +6,11 @@
 
 #### Python-developer experience > 1 year, testing experience < 1 year ####
 
+----
 
 ## Skills | Briefly
 
-Backend development in Python, SQLite, Git, GitHub, unittest, pydantic, flask, docker,
+Backend development in Python, SQLite, Git, GitHub, pydantic, FastAPI, flask, docker,
 Google Cloud, Linux, bash, jira, Confluence.
 
 **English - Pre-Intermediate**
@@ -32,6 +33,7 @@ of the control parameters of the connected equipment (consoles, buttons, lightin
 - Full development cycle, from beginning to end
 - building application architecture
 - testing
+- teamwork (3 developer)
 
 ### 2020 to the present ###
 
@@ -41,7 +43,7 @@ The project is being developed in collaboration with several like-minded people,
 
 - development of a protocol for server-client interaction (own protocol based on JSON:API)
 - implementation of the protocol in the server code, as well as writing other server functions
-- server stack FastAPI, SQLObject, PostgreSQL, pydantic
+- server stack starlette, SQLObject, PostgreSQL, pydantic
 - deploying to Google Cloud
 - writing autotests using unittest
 - organizing a group of developers to work together on GitHub
@@ -127,41 +129,47 @@ The learning project consisted of:
 
 ## Education ##
 
-**Python Programming Course, 2020**
+### SQL course on Stepik platform, 2022 ###
+    
+- SQL - 
+[Certificate](https://github.com/stepanskryabin/Resume/blob/master/cert/stepik-certificate-63054-af5c34d.pdf)
 
-    Coursera
+- JavaScript - 
+[Certificate](https://github.com/stepanskryabin/Resume/blob/master/cert/stepik-certificate-2223-479f44f.pdf)
 
-## School for novice testers, 2019 ##
 
-    Moscow
+### Python Programming Course, 2020 ###
 
-[School of testers](http://testbase.ru/learn/beginner)
+- Coursera
 
-[Certificate](https://github.com/stepanskryabin/Resume/blob/master/certificate.pdf)
+### School for novice testers, 2019, Moscow ###
 
-**Electrical Machines and Automatics, 2011-2013**
+- [School of testers](http://testbase.ru/learn/beginner) - 
+[Certificate](https://github.com/stepanskryabin/Resume/blob/master/cert/test_certificate.pdf)
 
-    Vyatka State University - Kirov, Russia
+### Electrical Machines and Automatics, 2011-2013 ###
 
-**Automation of Technological Processes and Productions, 2005-2008**
+- Vyatka State University - Kirov, Russia
 
-    KCHITT - Kirovo-Chepetsk, Russia
+### Automation of Technological Processes and Productions, 2005-2008 ###
+
+ - KCHITT - Kirovo-Chepetsk, Russia
 
 ## Advanced education ##
 
-**Organization of production and entrepreneurship**
+### Organization of production and entrepreneurship ###
 
 *Kirovo-Chepetsk Training Center of the State Employment Service Administration of Kirov region - Kirovo-Chepetsk, Russia, 2014*
 
-**Management**
+### Management**
 
 *Kirov Institute for Retraining and Professional Development of Agricultural Personnel - Kirov, Russia 2013*
 
-**Checking and calibration of measuring instruments**
+### Checking and calibration of measuring instruments ###
 
 *FATRIM State Educational Institution of Advanced Training "Academy of Standardization, Metrology and Certification" - St. Petersburg, Russia 2009*
 
-### Skills ###
+## Skills ##
 
 ### Professional skills ###
 
@@ -179,11 +187,11 @@ The learning project consisted of:
 - test design and basics of test design
 - experience of working with TestLink, TestRail, Sitechco test management tools
 
-## Foreign languages
+## Foreign languages ##
 
-**English - Pre-Intermediate**.
+### English - Pre-Intermediate ###
 
-    Correspondence in English, and reading technical literature - with dictionary.
+Correspondence in English, and reading technical literature - with dictionary.
 
 ## Extras ##
 
