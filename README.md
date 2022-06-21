@@ -161,7 +161,7 @@ The learning project consisted of:
 
 *Kirovo-Chepetsk Training Center of the State Employment Service Administration of Kirov region - Kirovo-Chepetsk, Russia, 2014*
 
-### Management**
+### Management ###
 
 *Kirov Institute for Retraining and Professional Development of Agricultural Personnel - Kirov, Russia 2013*
 
