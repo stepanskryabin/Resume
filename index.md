@@ -10,7 +10,7 @@
 
 ## Skills | Briefly
 
-Backend development in Python, SQLite, Git, GitHub, pydantic, FastAPI, flask, docker,
+Backend development in Python, SQLite, Git, GitHub, mqtt protocol, pydantic, FastAPI, flask, docker,
 Google Cloud, Linux, bash, jira, Confluence.
 
 **English - Pre-Intermediate**
@@ -175,13 +175,13 @@ The learning project consisted of:
 
 - backend development in Python
 - teambuilding skills
-- working with databases (SQLite)
-- working with Git
+- working with databases (SQLite, MySQL)
+- working with Git/GitHub
+- basic web development CSS/HTML, installation/settings of Wordpress.
 - linux bash, file structure, batch managers, service configuration
 - requirements analysis and testing documentation, testing terminology
 - bug tracking system (jira, mantis, redmine, bugzilla)
 - documenting in Confluence
-- basic web development CSS/HTML, installation/settings of Wordpress.
 - knowledge of Windows - configuring services, setting up user access rights,
 - setting up network devices routers, sip-phones.
 - test design and basics of test design
