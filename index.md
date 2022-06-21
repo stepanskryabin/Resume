@@ -113,13 +113,13 @@ The learning project consisted of:
 
 ### 2013 - 2019, Kirovo-Chepetsk, Russia ###
 
-    - organized the activities of the management company
-    - drafted financial development plan, prepared annual reports for clients, held meetings of owners
-    - managed the maintenance of utilities of residential facilities
-    - implemented the bar-coding system of bills and receipts
-    - implemented the system of recording requests from the population via Help Desk system.
-    - company networks (ethernet, SIP), administered the company web site
-    - secured a grant of 300 thousand rubles.
+ - organized the activities of the management company
+ - drafted financial development plan, prepared annual reports for clients, held meetings of owners
+ - managed the maintenance of utilities of residential facilities
+ - implemented the bar-coding system of bills and receipts
+ - implemented the system of recording requests from the population via Help Desk system.
+ - company networks (ethernet, SIP), administered the company web site
+ - secured a grant of 300 thousand rubles.
 
 ### Locksmith on the instrumentation of JSC EMCZ "Velkont" and MUP "Communal Services" ###
 
