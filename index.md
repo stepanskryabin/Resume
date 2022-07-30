@@ -28,11 +28,16 @@ Work on a project to create a lighting control system (analog of Paradigm Softwa
 My tasks included the development of one element (server) which was engaged in the processing and distribution 
 of the control parameters of the connected equipment (consoles, buttons, lighting):
 
-- stack: Python 3.9 and paho.MQTT
+*Stack: Python 3.9, paho.MQTT, lupa.*
+
+*Brief functionality: receiving messages from broker, queuing for processing, processing, running custom lua scripts, sending messages to recipient.*
+
+- full development cycle, from beginning to end, building application architecture
 - optimization of work on low-power equipment 800Mhz/512Mb
-- Full development cycle, from beginning to end
-- building application architecture
-- testing
+- implementation of functionality to run scripts (in lua) inside python code.
+- threading
+- priority queue implementation
+- writing tests using unittest
 - teamwork (3 developer)
 
 ### 2020 to the present ###
